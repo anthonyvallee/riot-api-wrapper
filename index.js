@@ -26,7 +26,7 @@ RiotAPI.prototype.getSpectatorGameInfo = function(platformId, summonerId, callba
 };
 
 // TODO Wed Feb  3 22:25:10 EST 2015 : Will have to take care of error handling in another function.
-Riotapi.prototype.getSummonersByNames = function(region, summonerNames, callback) {
+RiotAPI.prototype.getSummonersByNames = function(region, summonerNames, callback) {
     region = region.toLowerCase();
     summonerNames = summonerNames.toLowerCase();
     var templater = this._getTemplater('summoner', 'getSummonersByNames');
