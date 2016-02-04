@@ -1,6 +1,8 @@
 # Riot API Wrapper
 This is a simple to use Node.js wrapper for League of Legends' REST API.
 
+[![NPM](https://nodei.co/npm/riot-api-wrapper.png)](https://www.npmjs.com/package/riot-api-wrapper)
+
 **Documentation will be added soon. For now, this project is still a WIP.**
 
 ## Installation
