@@ -1,3 +1,5 @@
+'use strict';
+
 module.exports = {
     _baseurl: 'https://na.api.pvp.net',
     summoner: {

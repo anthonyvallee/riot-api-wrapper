@@ -71,3 +71,6 @@ tramp
 
 # Mac related files
 .DS_Store
+
+# JSlint
+jslint

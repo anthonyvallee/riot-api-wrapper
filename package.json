@@ -1,12 +1,22 @@
 {
   "name": "riot-api-wrapper",
-  "version": "1.0.0",
-  "description": "This is a Node.js wrapper for League of Legends' REST API.",
+  "version": "1.0.1",
+  "description": "This is a Node.js wrapper module for League of Legends' REST API.",
   "scripts": {
-    "start": "This is a module, it cannot be started.",
+    "start": "echo \"This is a module, it cannot be started.\" && exit 0",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "anthonyvallee",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anthonyvallee/riot-api-wrapper"
+  },
+  "keywords": [
+    "league of legends",
+    "riot",
+    "api"
+  ],
+  "author": "Anthony Vallee <tony.vallee@hotmail.com> (https://github.com/anthonyvallee)",
   "license": "MIT",
   "dependencies": {
     "request": "^2.69.0"
