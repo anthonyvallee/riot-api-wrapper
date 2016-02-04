@@ -1,0 +1,14 @@
+{
+  "name": "riot-api-wrapper",
+  "version": "1.0.0",
+  "description": "This is a Node.js wrapper for League of Legends' REST API.",
+  "scripts": {
+    "start": "This is a module, it cannot be started.",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anthonyvallee",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  }
+}
