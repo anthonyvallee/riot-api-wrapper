@@ -1,3 +1,7 @@
+# Developpement stalled, for now !
+
+I have very limited time as of now, but still have a lot of ideas in mind to make this package very useful later.
+
 # Riot API Wrapper
 This is a simple to use Node.js wrapper for League of Legends' REST API.
 
